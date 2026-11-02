@@ -25,7 +25,7 @@ A simple, robust Python command line tool for bioinformatics that handles DNA tr
 * Open Reading Frame (ORF) Finder: Scans reading frames for start codons (ATG) and in-frame stop codons.
  
 * Restriction Site Mapping: Finds cut positions for common restriction enzymes (EcoRI, BamHI, HindIII, NotI, XbaI, PstI).
-* 
+  
 * Codon Optimization for E. coli: Converts amino acid sequences into preferred bacterial codons for recombinant protein expression.
 
 ## Understanding the Output and Symbols
