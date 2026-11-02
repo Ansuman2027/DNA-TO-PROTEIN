@@ -1,4 +1,6 @@
 # DNA-TO-PROTEIN 
+<img width="1920" height="1019" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/f325634e-7d77-45ea-913d-c80840fd048b" />
+
 
 A simple, robust Python command line tool for bioinformatics that handles DNA transcription, forward translation into proteins, and reverse translation back to DNA.
 
